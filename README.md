@@ -58,7 +58,7 @@ This will install Python and its package manager, `pip`
 If you are familiar with Git and have it installed, you should open a terminal and run the following command:
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/jacksonbarlow/AnomalyDetection
 cd your-repo-name
 ```
 
